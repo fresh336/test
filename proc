@@ -1,0 +1,5 @@
+python3
+利用Linux proc文件系统实现对CPU的监控
+并使用matplotlib实现可视化
+UDP client为客户端代码检测网速
+CPU为服务器端检测CPU使用量 net监测网速 mem检测内存
